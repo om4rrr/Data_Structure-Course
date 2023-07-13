@@ -15,8 +15,11 @@ int main(){
 	if(!StackFull(&S))Push(5, &S);
 	if(!StackFull(&S))Push(10, &S);	
 	if(!StackFull(&S))Push(15, &S);	
+	if(!StackFull(&S))Push(20, &S);	
 	
-	if(!StackEmpty(&S)) Pop(&item, &S);
+	
+	TraverseStack(&S, &Display);
+	/*if(!StackEmpty(&S)) Pop(&item, &S);
 	if(!StackEmpty(&S)) Pop(&item, &S);
 	
 	printf("\n\nSize of Stack : %d\n\n", StackSize(&S));
@@ -28,10 +31,10 @@ int main(){
 	if(!StackFull(&S))Push(5, &S);
 	if(!StackFull(&S))Push(10, &S);	
 	if(!StackFull(&S))Push(15, &S);
-	TraverseStack(&S, &Display);
+	
 	
 	ClearStack(&S);
-	printf("\n\nSize of Stack : %d\n\n", StackSize(&S));
+	printf("\n\nSize of Stack : %d\n\n", StackSize(&S));*/
 	
 		
 	return 0;
