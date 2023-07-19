@@ -1,0 +1,22 @@
+# ninja log v5
+1	319	7114838702222259	CMakeFiles/List_LinkedList_Based_Implementation.dir/list/list.c.obj	c7c88ad964ebdca4
+13	321	7114838702222259	CMakeFiles/List_LinkedList_Based_Implementation.dir/main.c.obj	6cbf985c0e38e5d6
+45	249	7114839231247788	CMakeFiles/List_LinkedList_Based_Implementation.dir/main.c.obj	6cbf985c0e38e5d6
+14	263	7114839231277713	CMakeFiles/List_LinkedList_Based_Implementation.dir/list/list.c.obj	c7c88ad964ebdca4
+264	602	7114839234607003	List_LinkedList_Based_Implementation.exe	94f6c3c0afa87470
+18	552	7114844695936143	CMakeFiles/List_LinkedList_Based_Implementation.dir/list/list.c.obj	c7c88ad964ebdca4
+55	571	7114844696115795	CMakeFiles/List_LinkedList_Based_Implementation.dir/main.c.obj	6cbf985c0e38e5d6
+572	1064	7114844700959950	List_LinkedList_Based_Implementation.exe	94f6c3c0afa87470
+3	190	7114845101593871	CMakeFiles/List_LinkedList_Based_Implementation.dir/main.c.obj	6cbf985c0e38e5d6
+194	342	7114845103090206	List_LinkedList_Based_Implementation.exe	94f6c3c0afa87470
+11	224	7114847532308831	CMakeFiles/List_LinkedList_Based_Implementation.dir/main.c.obj	6cbf985c0e38e5d6
+3	258	7114847532717748	CMakeFiles/List_LinkedList_Based_Implementation.dir/list/list.c.obj	c7c88ad964ebdca4
+259	423	7114847534223785	List_LinkedList_Based_Implementation.exe	94f6c3c0afa87470
+4	179	7114847674198629	CMakeFiles/List_LinkedList_Based_Implementation.dir/main.c.obj	6cbf985c0e38e5d6
+179	325	7114847675574983	List_LinkedList_Based_Implementation.exe	94f6c3c0afa87470
+10	217	7114847910633720	CMakeFiles/List_LinkedList_Based_Implementation.dir/main.c.obj	6cbf985c0e38e5d6
+218	384	7114847912278513	List_LinkedList_Based_Implementation.exe	94f6c3c0afa87470
+3	190	7114848339114689	CMakeFiles/List_LinkedList_Based_Implementation.dir/main.c.obj	6cbf985c0e38e5d6
+191	335	7114848340530979	List_LinkedList_Based_Implementation.exe	94f6c3c0afa87470
+5	207	7114848749807708	CMakeFiles/List_LinkedList_Based_Implementation.dir/main.c.obj	6cbf985c0e38e5d6
+207	548	7114848753082602	List_LinkedList_Based_Implementation.exe	94f6c3c0afa87470
