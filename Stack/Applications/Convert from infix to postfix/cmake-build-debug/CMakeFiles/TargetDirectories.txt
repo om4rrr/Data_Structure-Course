@@ -1,3 +1,0 @@
-D:/Data_Structure  Course/Stack/Applications/Convert from infix to postfix/cmake-build-debug/CMakeFiles/Convert_from_infix_to_postfix.dir
-D:/Data_Structure  Course/Stack/Applications/Convert from infix to postfix/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Data_Structure  Course/Stack/Applications/Convert from infix to postfix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
